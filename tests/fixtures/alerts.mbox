@@ -1,0 +1,171 @@
+From eas-box@station.example Mon Mar 02 10:00:05 2026
+Date: Mon, 02 Mar 2026 10:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0611600-WAAA/FM -
+
+From eas-box@station.example Mon Mar 02 11:00:05 2026
+Date: Mon, 02 Mar 2026 11:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-PEP-RWT-000000+0015-0611700-IPAWSOPN-
+
+From eas-box@station.example Tue Mar 03 14:00:05 2026
+Date: Tue, 03 Mar 2026 14:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0622000-WBBB/AM -
+
+From eas-box@station.example Wed Mar 04 09:00:05 2026
+Date: Wed, 04 Mar 2026 09:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Forwarded: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0631500-WXYZ/FM -
+
+From eas-box@station.example Mon Mar 09 11:00:05 2026
+Date: Mon, 09 Mar 2026 11:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-PEP-RWT-000000+0015-0681700-IPAWSOPN-
+
+From eas-box@station.example Wed Mar 11 10:30:05 2026
+Date: Wed, 11 Mar 2026 10:30:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED MONTHLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED MONTHLY TEST
+EAS Header: ZCZC-CIV-RMT-019000+0015-0701628-WAAA/FM -
+
+From eas-box@station.example Wed Mar 11 10:34:05 2026
+Date: Wed, 11 Mar 2026 10:34:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED MONTHLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED MONTHLY TEST
+EAS Header: ZCZC-CIV-RMT-019000+0015-0701628-WBBB/AM -
+
+From eas-box@station.example Wed Mar 11 10:45:05 2026
+Date: Wed, 11 Mar 2026 10:45:05 -0600
+From: eas-box@station.example
+Subject: EAS Forwarded: REQUIRED MONTHLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED MONTHLY TEST
+EAS Header: ZCZC-CIV-RMT-019000+0015-0701628-WXYZ/FM -
+
+From eas-box@station.example Mon Mar 16 11:00:05 2026
+Date: Mon, 16 Mar 2026 11:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-PEP-RWT-000000+0015-0751700-IPAWSOPN-
+
+From eas-box@station.example Tue Mar 17 13:10:05 2026
+Date: Tue, 17 Mar 2026 13:10:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0761910-WAAA/FM -
+
+From eas-box@station.example Wed Mar 18 09:30:05 2026
+Date: Wed, 18 Mar 2026 09:30:05 -0600
+From: eas-box@station.example
+Subject: EAS Forwarded: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0771530-WXYZ/FM -
+
+From eas-box@station.example Thu Mar 19 15:24:05 2026
+Date: Thu, 19 Mar 2026 15:24:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: TORNADO WARNING
+Content-Type: text/plain
+
+Event: TORNADO WARNING
+EAS Header: ZCZC-WXR-TOR-019153-019169+0015-0782123-KDMX/NWS-
+
+From eas-box@station.example Mon Mar 23 11:00:05 2026
+Date: Mon, 23 Mar 2026 11:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-PEP-RWT-000000+0015-0821700-IPAWSOPN-
+
+From eas-box@station.example Tue Mar 24 10:00:05 2026
+Date: Tue, 24 Mar 2026 10:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0831600-WAAA/FM -
+
+From eas-box@station.example Thu Mar 26 16:40:05 2026
+Date: Thu, 26 Mar 2026 16:40:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0852240-WBBB/AM -
+
+From eas-box@station.example Mon Mar 30 11:00:05 2026
+Date: Mon, 30 Mar 2026 11:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-PEP-RWT-000000+0015-0891700-IPAWSOPN-
+
+From eas-box@station.example Tue Mar 31 09:00:05 2026
+Date: Tue, 31 Mar 2026 09:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0901500-WBBB/AM -
+
+From eas-box@station.example Wed Apr 01 10:00:05 2026
+Date: Wed, 01 Apr 2026 10:00:05 -0600
+From: eas-box@station.example
+Subject: EAS Received: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0911600-WAAA/FM -
+
+From eas-box@station.example Fri Apr 03 09:15:05 2026
+Date: Fri, 03 Apr 2026 09:15:05 -0600
+From: eas-box@station.example
+Subject: EAS Forwarded: REQUIRED WEEKLY TEST
+Content-Type: text/plain
+
+Event: REQUIRED WEEKLY TEST
+EAS Header: ZCZC-EAS-RWT-019153+0015-0931515-WXYZ/FM -
+

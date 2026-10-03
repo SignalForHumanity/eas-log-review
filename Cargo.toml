@@ -1,0 +1,15 @@
+[package]
+name = "eas-log-review"
+version = "0.1.0"
+edition = "2024"
+description = "Turn EAS decoder logs into a weekly and monthly FCC compliance review, flagging missed tests per monitoring source"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SignalForHumanity/eas-log-review"
+readme = "README.md"
+keywords = ["eas", "emergency-alert", "broadcast", "lpfm", "same"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+
+[profile.release]
+strip = true

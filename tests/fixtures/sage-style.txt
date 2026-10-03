@@ -1,0 +1,76 @@
+Alert Received 10:00:05 03/02/26 on monitor 1 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0611600-WAAA/FM -
+
+Alert Received 11:00:05 03/02/26 on monitor 3 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-PEP-RWT-000000+0015-0611700-IPAWSOPN-
+
+Alert Received 14:00:05 03/03/26 on monitor 2 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0622000-WBBB/AM -
+
+Alert sent 09:00:05 03/04/26
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0631500-WXYZ/FM -
+
+Alert Received 11:00:05 03/09/26 on monitor 3 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-PEP-RWT-000000+0015-0681700-IPAWSOPN-
+
+Alert Received 10:30:05 03/11/26 on monitor 1 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED MONTHLY TEST for the following counties/areas.
+ZCZC-CIV-RMT-019000+0015-0701628-WAAA/FM -
+
+Alert Received 10:34:05 03/11/26 on monitor 2 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED MONTHLY TEST for the following counties/areas.
+ZCZC-CIV-RMT-019000+0015-0701628-WBBB/AM -
+
+Alert sent 10:45:05 03/11/26
+A Broadcast station or cable system has issued a REQUIRED MONTHLY TEST for the following counties/areas.
+ZCZC-CIV-RMT-019000+0015-0701628-WXYZ/FM -
+
+Alert Received 11:00:05 03/16/26 on monitor 3 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-PEP-RWT-000000+0015-0751700-IPAWSOPN-
+
+Alert Received 13:10:05 03/17/26 on monitor 1 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0761910-WAAA/FM -
+
+Alert sent 09:30:05 03/18/26
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0771530-WXYZ/FM -
+
+Alert Received 15:24:05 03/19/26 on monitor 4 Matched Filter ALL
+A Broadcast station or cable system has issued a TORNADO WARNING for the following counties/areas.
+ZCZC-WXR-TOR-019153-019169+0015-0782123-KDMX/NWS-
+
+Alert Received 11:00:05 03/23/26 on monitor 3 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-PEP-RWT-000000+0015-0821700-IPAWSOPN-
+
+Alert Received 10:00:05 03/24/26 on monitor 1 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0831600-WAAA/FM -
+
+Alert Received 16:40:05 03/26/26 on monitor 2 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0852240-WBBB/AM -
+
+Alert Received 11:00:05 03/30/26 on monitor 3 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-PEP-RWT-000000+0015-0891700-IPAWSOPN-
+
+Alert Received 09:00:05 03/31/26 on monitor 2 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0901500-WBBB/AM -
+
+Alert Received 10:00:05 04/01/26 on monitor 1 Matched Filter ALL
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0911600-WAAA/FM -
+
+Alert sent 09:15:05 04/03/26
+A Broadcast station or cable system has issued a REQUIRED WEEKLY TEST for the following counties/areas.
+ZCZC-EAS-RWT-019153+0015-0931515-WXYZ/FM -
+
